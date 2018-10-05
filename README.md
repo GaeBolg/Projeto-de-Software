@@ -2,7 +2,8 @@
 Projeto de Software - Grupo 08 - Semestre 2018/2 - Turma A - Professor Msc Gilmar
 Gustavo Henrique Rodrigues Santos Silva
 José da Costa Nunes Neto	
-Pedro Antonio Moreira de Freitas	
+Pedro Antonio Moreira de Freitas
+João Carlos Fonseca
 	
 
 
